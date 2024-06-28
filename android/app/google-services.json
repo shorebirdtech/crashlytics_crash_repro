@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073563528072",
+    "project_id": "shorebird-crashlytics-demo",
+    "storage_bucket": "shorebird-crashlytics-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073563528072:android:9116a87e5ffdff46b9683d",
+        "android_client_info": {
+          "package_name": "dev.shore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPP-agxgnmhgABzFgsd5hxRwxK3N727s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
